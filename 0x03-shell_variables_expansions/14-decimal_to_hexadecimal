@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' variable, $GLOBAL
+printf "%x\n" $DECIMAL
